@@ -1,0 +1,10 @@
+C:\Users\FloresC\source\repos\Guia03\Guia03\bin\Debug\Guia03.exe.config
+C:\Users\FloresC\source\repos\Guia03\Guia03\bin\Debug\Guia03.exe
+C:\Users\FloresC\source\repos\Guia03\Guia03\bin\Debug\Guia03.pdb
+C:\Users\FloresC\source\repos\Guia03\Guia03\obj\Debug\Guia03.csproj.AssemblyReference.cache
+C:\Users\FloresC\source\repos\Guia03\Guia03\obj\Debug\Guia03.Form1.resources
+C:\Users\FloresC\source\repos\Guia03\Guia03\obj\Debug\Guia03.Properties.Resources.resources
+C:\Users\FloresC\source\repos\Guia03\Guia03\obj\Debug\Guia03.csproj.GenerateResource.cache
+C:\Users\FloresC\source\repos\Guia03\Guia03\obj\Debug\Guia03.csproj.CoreCompileInputs.cache
+C:\Users\FloresC\source\repos\Guia03\Guia03\obj\Debug\Guia03.exe
+C:\Users\FloresC\source\repos\Guia03\Guia03\obj\Debug\Guia03.pdb
